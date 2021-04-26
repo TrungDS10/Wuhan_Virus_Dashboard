@@ -13,7 +13,7 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country,Latitud,Logitud
 1/1/2013,5.193,0.704,United Kingdom,57.05,1.48
 1/1/2013,20.855,1.107,Saudi Arabia,18.48,42.25
 1/1/2013,1.288,0.287,Japan,36.17,139.23
-1/1/2013,6.32,0.267,United States,32.95,100.53
+1/1/2013,6.32,0.267,United States,32.95,-100.53
 1/1/2013,12.664,0.476,India,29.74,73.85
 1/1/2013,28.957,0.89,Benin,7.23,2.43
 1/1/2013,19.813,0.436,United Arab Emirates,24.92,54.98
