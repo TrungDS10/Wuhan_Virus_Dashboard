@@ -21,7 +21,7 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country,Latitud,Logitud
 1/1/2013,27.247,0.565,Venezuela,8.84,68.92
 1/1/2013,27.708,0.839,Ghana,5.63,0
 1/1/2013,18.852,0.998,Ethiopia,8.84,38.11
-1/1/2013,22.795,0.297,Australia,34.56,138.16
+1/1/2013,22.795,0.297,Australia,-34.56,138.16
 1/1/2013,22.743,0.795,Yemen,13.66,45.41
 1/1/2013,26.49,0.48,Indonesia,7.23,109.46
 1/1/2013,12.676,0.389,Morocco,29.74,9.23
