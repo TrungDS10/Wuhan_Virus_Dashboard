@@ -9,7 +9,7 @@ dt,AverageTemperature,AverageTemperatureUncertainty,Country,Latitude,Logitude
 1/1/1913,26.177,0.553,Nigeria,5.63,8.07
 1/1/1913,13.951,0.874,Iran,29.74,48
 1/1/1913,-24.874,5.117,Russia,53.84,91.36
-1/1/1913,0.148,0.478,Canada,49.03,122.45
+1/1/1913,0.148,0.478,Canada,49.03,-122.45
 1/1/1913,26.015,0.61,Côte D'Ivoire,7.23,4.05
 1/1/1913,4.732,0.422,United Kingdom,57.05,-1.48
 1/1/1913,19.09,1.235,Saudi Arabia,18.48,42.25
