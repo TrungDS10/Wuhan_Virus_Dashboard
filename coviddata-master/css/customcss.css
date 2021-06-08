@@ -1,0 +1,155 @@
+html,body,h1,h2,h3,h4,h5, p {
+    font-family: "Open Sans", sans-serif; 
+    font-size: 0.95rem; 
+    color:#adb5bd
+}
+.navbar-custom {
+    height:60px;
+    z-index:4;
+    background-color:#e5eaee
+}
+.navbar-custom i {
+    color:#e84a67
+}
+.bg-dashboard{
+    background-color:aliceblue;
+}
+.dashboardTitle {
+    font-weight: bold;
+}
+.sidebar-custom {
+    background-color:aliceblue;
+    z-index:3;
+    width:250px;
+}
+.main-custom {
+    margin-left:250px;
+    margin-top:60px;
+}
+.header-container {
+    padding-top:22px
+}
+.dark-element{
+    background-color:aliceblue; 
+    border: 1px solid #dfe6ec;
+}
+.dark-element-withfont{
+    background-color:aliceblue; 
+    border: 1px solid #dce3eb; 
+    color:#adb5bd
+}
+.dark-element-borderBottom{
+    background-color:aliceblue; 
+    border-bottom: 1px solid #e3e9f0;
+}
+
+.tabulator{
+    background-color:rgb(31, 34, 37) ;
+}
+.tabulator .tabulator-header {
+    background-color:rgb(21, 23, 26) ; 
+    border: 1px solid #dbe1e7;
+}
+.tabulator-col, .tabulator-sortable {
+    background-color:#171a1d ; 
+}
+.tabulator-row .tabulator-cell {
+    border-right: 1px solid #15171a ;
+    border-bottom: 1px solid #dfe6ec ; 
+    font-weight: normal;
+}
+#covidTableFrance .tabulator-row .tabulator-cell{
+    padding:0.65em ;
+}
+#covTable .tabulator-row .tabulator-cell{
+    padding:0.3em ;
+}
+#vaccinTable .tabulator-row .tabulator-cell{
+    padding:0.65em ;
+}
+#vaccinTable .tabulator-row .tabulator-cell .arrowUpDown {
+    margin-right:0.2em ; 
+    font-size: medium ;
+}
+.tabulator .tabulator-header .tabulator-col .tabulator-col-content .tabulator-col-title {
+    white-space: normal;
+}
+.tabulator-col .tabulator-sortable {
+    height: 50px;
+}
+.tabulator .tabulator-header .tabulator-col {
+    border-right: 1px solid #101113;
+}
+.tabulator .tabulator-header .tabulator-col.tabulator-sortable:hover{
+    background-color:aliceblue ;
+}
+.tabulator-row {
+    background-color:rgb(13, 15, 17) ;
+}
+.tabulator-row.tabulator-selectable:hover{
+    background-color:#0e1011 ;
+}
+.tabulator .tabulator-header .tabulator-col .tabulator-header-filter input {
+    background-color:rgb(12, 14, 15) ;
+}
+.tabulator .tabulator-footer {
+    background-color:rgb(15, 18, 20) ; 
+    border-top: 1px solid #dee2e6;
+}
+
+.chartsBlock1 {
+    width:100%;
+    height:500px; 
+    margin: 0;
+    padding: 0;
+}
+.chartsBlock2{
+    width:100%;
+    height:600px;
+    margin: 0;
+    padding: 0;
+}
+
+.mapTabs{
+    border-right: 1px aliceblue ;
+}
+.active {
+    background-color:#009688; 
+    color:#eeeeee
+} 
+#containerMap{
+    width:100%;
+    height:600px;
+    margin:0;
+    padding:0;
+}
+#containerGlobalMap{
+    width:100%;
+    height:600px;
+    margin:0;
+    padding:0;
+}
+#containerMapFrance{
+    width:100%;
+    height:600px;
+    margin:0;
+    padding:0;
+}
+
+#articles img {
+    width:100%;
+    max-width:400px
+}
+#articles a{
+    text-decoration: none
+}
+.newsItalic {
+    font-style:italic;
+}
+
+.footer-custom{
+    background-color:aliceblue;
+}
+.footer-custom h4, .footer-custom p {
+    color:aliceblue
+}
