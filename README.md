@@ -1,2 +1,2 @@
 # Wuhan-Virus-Dashboard
-Mini Project In International University Using html, css and js
+Mini Project on creating a dashboard for the COVID-19 pandemic in Vietnam
